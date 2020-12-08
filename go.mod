@@ -1,5 +1,3 @@
 module github.com/MKluna/Golang-React
 
-require(
-
-)
+go 1.15
